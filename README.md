@@ -4,8 +4,6 @@ A machine learning project to classify the type of forest cover based on various
 ## Project Overview:
 This project addresses a multi-class classification problem using machine learning models to predict the forest cover type of a given area.
 
-The models are trained on a comprehensive dataset that includes topographical and geological data. 
-
 The goal is to build an accurate and robust classifier that can correctly identify one of the seven cover types.
 
 ## Dataset:
